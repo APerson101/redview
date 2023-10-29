@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-redview-staging-154031-authRole",
+      "UnauthRoleArn": "arn:aws:iam::889990022206:role/amplify-redview-staging-154031-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::889990022206:role/amplify-redview-staging-154031-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-redview-staging-154031-deployment",
+      "UnauthRoleName": "amplify-redview-staging-154031-unauthRole",
+      "StackName": "amplify-redview-staging-154031",
+      "StackId": "arn:aws:cloudformation:us-east-1:889990022206:stack/amplify-redview-staging-154031/7e58b9b0-7671-11ee-9c3d-0eda8fea9503",
+      "AmplifyAppId": "d249yvpjg5jwrb"
+    }
+  }
+}
